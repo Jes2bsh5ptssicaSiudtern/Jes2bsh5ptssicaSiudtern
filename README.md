@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jes2bsh5ptssicaSiudtern
 
-<!--
-**Jes2bsh5ptssicaSiudtern/Jes2bsh5ptssicaSiudtern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎾 🎯 Interested in full stack development 🎾 🎯
 
-Here are some ideas to get you started:
+## About Me
+🎵 🎯 Innovating in the field of internet of things 🎵 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🌺 🛼 Passionate about full stack development 🌺 🛼
+
+### Fun Facts
+🏏 🎰 🎪 🎻 A hacker in tools 🏏 🎰 🎪 🎻
+
+---
+🌈 🚵 🎽 🎻 🎮 Thanks for visiting my profile! 🚀 🎻 🎾 🚴 🎮
